@@ -1,0 +1,1 @@
+A node package to profile those webpages from the command line. Built on top of phantomjs goodness.
